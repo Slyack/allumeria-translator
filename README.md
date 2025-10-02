@@ -1,0 +1,1 @@
+# allumeria-translation-updater
