@@ -1,1 +1,3 @@
 # allumeria-translation-updater
+
+This tool can be used to update Allumeria's (By Unomelon Games) keys.txt file. Input the current keys.txt file's path, your recent translation keys.txt file's path and the path where the new updated .txt file is added to. The tool will go through all of the keys and update them if a translation is found and if not, the keys with missing translations are listed.
