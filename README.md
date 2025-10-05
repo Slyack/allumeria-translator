@@ -8,7 +8,7 @@ Before using the program create a translation folder to \Steam\steamapps\common\
 
 Official guide for translations: https://steamcommunity.com/sharedfiles/filedetails/?id=3576375349
 
-If you face any issues with the program you can join Allumeria's official Discord server where I have a thread at translations > Allumeria Translator https://discord.gg/Ddh3acCtVx
+If you face any issues with the program or have ideas for it, you can join Allumeria's official Discord server where I have a thread at translations > Allumeria Translator https://discord.gg/Ddh3acCtVx
 
     === Allumeria Translator Commands ===
 
