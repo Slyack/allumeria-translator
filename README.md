@@ -4,6 +4,8 @@
 
 Allumeria Translator can be used to translate and merge Allumeria's (By Unomelon Games) keys.txt files. Enter the default (untranslated) keys.txt file's path, your recent translation keys.txt file's path and the path where the new merged output .txt file is added to. The tool will go through all of the keys and update them if a translation is found and if not, the keys with missing translations are listed. -set command can be used to directly set or update translations within the program.
 
+Before using the program create a translation file to \Steam\steamapps\common\Allumeria Playtest\res\translations
+
     === Allumeria Translator Commands ===
 
     -help                    : Show this help message
