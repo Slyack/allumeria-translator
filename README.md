@@ -1,4 +1,4 @@
-![](images/icon.png)
+<img src="images/icon.png" width="80" height="80" />
 
 # Allumeria Translator
 
