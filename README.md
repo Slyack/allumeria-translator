@@ -23,11 +23,13 @@ If you face any issues with the program or have ideas for it, you can join Allum
     -check                   : Compare default and translated files to see if an update is needed
     -merge                   : Merge a new keys file with your old translations
     -print                   : Display contents of a file
+    
     -find <text>             : Searches the output file for any key or translation containing the given text
     -get <key>               : Search the output file for a specific key
     -set <key> <translation> : Manually set or update the translation of a specific key in the output file
     -auto                    : Automatically go through all untranslated keys in the output file.
                                Ignored keys are skipped. Type '-' to skip a key without changing its translation.
+                               
     -ignore <key>            : Add a key to the ignored keys list. Ignored keys will not be counted
                                as missing translations.
     -unignore <key>          : Remove a key from the ignored keys list so it will be counted
