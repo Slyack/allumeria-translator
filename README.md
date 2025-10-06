@@ -38,8 +38,3 @@ If you face any issues with the program or have ideas for it, you can join Allum
 
     -clear                   : Clear the screen
     -exit                    : Exit the program
-
-<video width="600" controls>
-  <source src="images/example.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
