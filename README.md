@@ -24,11 +24,11 @@ If you face any issues with the program or have ideas for it, you can join Allum
     -pathlist                : Display the currently set file paths for default, translated, and output files.
     -overwrite               : Set the output file path to be the same as the translated file.
                                All modifications from updates will be applied directly to the translated file.
-    -backup                  : Create a new backup of the current output file
 
     Translation Management:
     -check                   : Compare default and translated files to see if an update is needed
     -merge                   : Merge a new keys file with your old translations
+    -backup                  : Create a new backup of the current output file
     -print                   : Display contents of a file
     -find <text>             : Searches the output file for any key or translation containing the given text
     -get <key>               : Search the output file for a specific key
