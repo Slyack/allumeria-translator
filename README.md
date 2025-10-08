@@ -24,6 +24,7 @@ If you face any issues with the program or have ideas for it, you can join Allum
     -pathlist                : Display the currently set file paths for default, translated, and output files.
     -overwrite               : Set the output file path to be the same as the translated file.
                                All modifications from updates will be applied directly to the translated file.
+    -backup                  : Create a new backup of the current output file
 
     Translation Management:
     -check                   : Compare default and translated files to see if an update is needed
